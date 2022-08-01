@@ -1,11 +1,12 @@
 <!-- Titulo -->
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Patrick Almeida and my nickname is PTK!
+
 <!-- Sobre -->
 <div align="center">
-  🤓 No momento estou cursando Sistemas de Informação na Universidade Católica de Santos<br>
+  ### My name is Patrick Almeida and my nickname is PTK!
+  🤓 No momento estou cursando Ciência da Computação na Universidade Paulista (UNIP) de Santos<br>
   🚢 Estou estagiando na Brasil Terminal Portuário<br>
-  📚 Meus estudos estão focados em C# .NET5/6<br><br>
+  📚 Meus estudos estão focados em C# .NET5/6 HTML CSS JS PYTHON MYSQL JAVA<br><br>
 </div>
 
 <!-- Redes sociais -->
