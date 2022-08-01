@@ -3,10 +3,9 @@
 
 <!-- Sobre -->
 <div align="center">
-  
-  🤓 No momento estou cursando Ciência da Computação na Universidade Paulista (UNIP) de Santos<br>
-  🚢 Estou estagiando na Brasil Terminal Portuário<br>
-  📚 Meus estudos estão focados em C# .NET5/6 HTML CSS JS PYTHON MYSQL JAVA<br><br>
+  🤓 I'm currently studying Ciência da Computação at Universidade Paulista (UNIP) in Santos<br>
+  🚢 I'm an intern at Brasil Terminal Portuário<br>
+  📚 My studies are focused on C# .NET5/6 HTML CSS JS PYTHON MYSQL JAVA<br><br>
 </div>
 
 <!-- Redes sociais -->
