@@ -3,7 +3,7 @@
 
 <!-- Sobre -->
 <div align="center">
-  My name is Patrick Almeida and my nickname is PTK!
+  My name is Patrick Almeida and my nickname is PTK!<br>
   🤓 No momento estou cursando Ciência da Computação na Universidade Paulista (UNIP) de Santos<br>
   🚢 Estou estagiando na Brasil Terminal Portuário<br>
   📚 Meus estudos estão focados em C# .NET5/6 HTML CSS JS PYTHON MYSQL JAVA<br><br>
